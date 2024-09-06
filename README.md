@@ -1,5 +1,4 @@
 # Sales-Analytics-And-Prediction-Model
-# Sales Prediction Model and Dashboard
 
 ## Overview
 
